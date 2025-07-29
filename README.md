@@ -23,5 +23,5 @@ This Power BI dashboard visualizes stock price predictions for selected companie
 
 ## 📸 Dashboard Previews
 
-![Overview](images/overview.png)
+![Overview](images/Dashboard_.png)
 ![Prediction vs Actual](images/Part.png)
